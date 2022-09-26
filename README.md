@@ -1,7 +1,7 @@
 Hi 👋 
 =====================
 
-I'm a full-stack web developer strongly focused on UI and modern design
+I'm a full-stack web developer strongly focused on modern design
 
 ### Skills
 
