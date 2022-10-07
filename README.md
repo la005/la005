@@ -1,7 +1,8 @@
 Hi 👋 
 =====================
 
-I'm a full-stack web developer strongly focused on modern design
+I'm a designer, web developer strongly focused
+on creating beautiful and functional products
 
 ### Skills
 
