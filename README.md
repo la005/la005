@@ -2,7 +2,7 @@ Hi 👋
 =====================
 
 I'm a designer, web developer strongly focused
-on creating beautiful and functional products
+on creating beautiful and functional products.
 
 ### Skills
 
