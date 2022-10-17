@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/0c4907759dba9098610743b346da966c/70ca37f054b8ec6e-2a/s640x960/53c3e4ca690fa05e8501a5966083803a17d68313.pnj)](https://github.com/la005)
+[![MasterHead](#)](https://github.com/la005)
 
 Hi 👋
 =====================
