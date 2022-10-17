@@ -1,5 +1,3 @@
-[![MasterHead](#)](https://github.com/la005)
-
 Hi 👋
 =====================
 
