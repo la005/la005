@@ -1,5 +1,7 @@
-[![MasterHead](https://64.media.tumblr.com/cbaa062283ff8cbebc4b7ceb169cfefe/bbae5ea59762399a-13/s2048x3072/04f986de59d06ab5c961b887693248ce3d1d6630.pnj)](https://rishavchanda.io)
+Hi 👋
+=====================
 
+## I'm a Developer, Designer
 
 ### Skills
 
