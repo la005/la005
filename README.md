@@ -1,7 +1,7 @@
 Hi 👋
 =====================
 
-## I'm a Developer, Designer
+## I'm a Software Engineer and Designer
 
 ### Skills
 
