@@ -1,7 +1,6 @@
 Hi 👋
 =====================
 
-## I'm a Software Engineer and Designer
 
 ### Skills
 
